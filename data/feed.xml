@@ -5,8 +5,40 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 01 Oct 2026 13:30:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 17:23:00 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
+<link>https://huggingface.co/blog/allenai/olmocore3</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/olmocore3</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 15:01:43 +0000</pubDate>
+</item>
+<item>
+<title>How Albertsons Companies is reimagining retail from the inside out</title>
+<link>https://openai.com/index/albertsons-reimagining-retail</link>
+<guid isPermaLink="true">https://openai.com/index/albertsons-reimagining-retail</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Code coverage uploads no longer fail CI for new branches</title>
+<link>https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 16:49:05 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled code scanning skips inactive repositories</title>
+<link>https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 16:49:15 +0000</pubDate>
+</item>
 <item>
 <title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence</title>
 <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence</link>
@@ -16,12 +48,12 @@
 <pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
 </item>
 <item>
-<title>npm 可信发布新增 dist-tag 权限可选开启 / Opt-in dist-tag permissions for npm trusted publishing</title>
-<link>https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</guid>
+<title>New dashboard experience now the default</title>
+<link>https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Wed, 30 Sep 2026 21:03:09 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 16:14:56 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure</title>
@@ -32,20 +64,12 @@
 <pubDate>Thu, 01 Oct 2026 12:05:49 +0000</pubDate>
 </item>
 <item>
-<title>HydraFusion 现已登陆 VS Code 和 GitHub Copilot 应用 / HydraFusion in VS Code and the GitHub Copilot app</title>
-<link>https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 30 Sep 2026 14:31:19 +0000</pubDate>
-</item>
-<item>
-<title>Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio</title>
-<link>https://deepmind.google/blog/introducing-synthid-bio</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-synthid-bio</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Wed, 30 Sep 2026 15:03:07 +0000</pubDate>
+<title>Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名 / Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!</title>
+<link>https://x.com/arena/status/2105702037849841954</link>
+<guid isPermaLink="true">https://x.com/arena/status/2105702037849841954</guid>
+<description>Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 16:51:02 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...</title>
@@ -56,20 +80,12 @@
 <pubDate>Thu, 01 Oct 2026 04:44:34 +0000</pubDate>
 </item>
 <item>
-<title>Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available</title>
-<link>https://modal.com/blog/modal-clusters-generally-available</link>
-<guid isPermaLink="true">https://modal.com/blog/modal-clusters-generally-available</guid>
-<description>Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。（Modal 官方工程博客（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 13:30:28 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...</title>
-<link>https://x.com/arena/status/2105411271525052418</link>
-<guid isPermaLink="true">https://x.com/arena/status/2105411271525052418</guid>
-<description>Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 21:35:38 +0000</pubDate>
+<title>GitHub async merge API generally available</title>
+<link>https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 14:00:51 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price</title>
@@ -78,6 +94,14 @@
 <description>OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。（MarkTechPost（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 30 Sep 2026 21:09:24 +0000</pubDate>
+</item>
+<item>
+<title>Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available</title>
+<link>https://modal.com/blog/modal-clusters-generally-available</link>
+<guid isPermaLink="true">https://modal.com/blog/modal-clusters-generally-available</guid>
+<description>Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。（Modal 官方工程博客（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 13:30:28 +0000</pubDate>
 </item>
 <item>
 <title>Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...</title>
@@ -96,14 +120,6 @@
 <pubDate>Wed, 30 Sep 2026 18:47:01 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Team 现可试用 GitHub Advanced Security / GitHub Advanced Security trials for GitHub Team</title>
-<link>https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 30 Sep 2026 16:48:24 +0000</pubDate>
-</item>
-<item>
 <title>Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效 / The Dot and the Swarm</title>
 <link>https://www.oneusefulthing.org/p/the-dot-and-the-swarm</link>
 <guid isPermaLink="true">https://www.oneusefulthing.org/p/the-dot-and-the-swarm</guid>
@@ -112,36 +128,28 @@
 <pubDate>Thu, 01 Oct 2026 10:54:12 +0000</pubDate>
 </item>
 <item>
-<title>OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing</title>
-<link>https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing</guid>
-<description>OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。（OpenRouter：Announcements（RSS））</description>
+<title>Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...</title>
+<link>https://x.com/arena/status/2105411271525052418</link>
+<guid isPermaLink="true">https://x.com/arena/status/2105411271525052418</guid>
+<description>Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。（X：Arena (@arena)）</description>
 <category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<pubDate>Wed, 30 Sep 2026 21:35:38 +0000</pubDate>
 </item>
 <item>
-<title>FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns</title>
-<link>https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns</link>
-<guid isPermaLink="true">https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns</guid>
-<description>FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 16:20:04 +0000</pubDate>
+<title>Actions Runner Controller release 0.15.0</title>
+<link>https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 13:01:31 +0000</pubDate>
 </item>
 <item>
-<title>OpenRouter 发布 Agent 模型成本与质量权衡选型框架 / Cost vs. Quality Tradeoff Framework for Agent Models</title>
-<link>https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models</guid>
-<description>OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。（OpenRouter：Announcements（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request / How to Gate Pull Requests on LLM Evals in CI</title>
-<link>https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci</guid>
-<description>OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。（OpenRouter：Announcements（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<title>npm 可信发布新增 dist-tag 权限可选开启 / Opt-in dist-tag permissions for npm trusted publishing</title>
+<link>https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 30 Sep 2026 21:03:09 +0000</pubDate>
 </item>
 <item>
 <title>Google 发布 Gemini 4，称其能力太强，目前只有“可信网络安全防御者”才能使用 / Google announces Gemini 4 and says it&amp;#8217;s so capable that only &amp;#8216;trusted cyber defenders&amp;#8217; can have it right now</title>
@@ -152,20 +160,12 @@
 <pubDate>Wed, 30 Sep 2026 20:41:41 +0000</pubDate>
 </item>
 <item>
-<title>CS240 人工智能作弊事件回顾</title>
-<link>https://turkeyland.net/thoughts/ai.php</link>
-<guid isPermaLink="true">https://turkeyland.net/thoughts/ai.php</guid>
-<description>turkeyland.net</description>
+<title>美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查</title>
+<link>https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html</link>
+<guid isPermaLink="true">https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html</guid>
+<description>www.cnbc.com</description>
 <category>多源热议</category>
-<pubDate>Thu, 01 Oct 2026 02:53:17 +0000</pubDate>
-</item>
-<item>
-<title>AI 大佬们如何看待 Trump 的新安全计划 / Here&amp;#8217;s what AI leaders are saying about Trump’s new safety plan</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments</guid>
-<description>The Verge</description>
-<category>值得关注</category>
-<pubDate>Wed, 30 Sep 2026 17:15:49 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 15:42:33 +0000</pubDate>
 </item>
 </channel>
 </rss>
