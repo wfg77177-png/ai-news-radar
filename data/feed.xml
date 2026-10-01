@@ -5,13 +5,13 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 01 Oct 2026 02:09:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 06:14:16 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence</title>
 <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence</link>
 <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence</guid>
-<description>前沿模型但只对少数网安机构定向开放，开发者拿不到 API，先别排期。（Google DeepMind）</description>
+<description>Google DeepMind</description>
 <category>官方更新</category>
 <pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
 </item>
@@ -19,7 +19,7 @@
 <title>npm 可信发布新增 dist-tag 权限可选开启 / Opt-in dist-tag permissions for npm trusted publishing</title>
 <link>https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</guid>
-<description>用 OIDC 发 npm 包的可以收窄 dist-tag 权限了；不开也没影响，等需要再配。（GitHub Changelog）</description>
+<description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Wed, 30 Sep 2026 21:03:09 +0000</pubDate>
 </item>
@@ -27,7 +27,7 @@
 <title>OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign</title>
 <link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
 <guid isPermaLink="true">https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
-<description>只是提醒：拿 API 输出蒸馏会被封号，多数人无感，做数据爬取训练的才需查合规。（OpenAI News）</description>
+<description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Wed, 30 Sep 2026 10:30:00 +0000</pubDate>
 </item>
@@ -35,7 +35,7 @@
 <title>HydraFusion 现已登陆 VS Code 和 GitHub Copilot 应用 / HydraFusion in VS Code and the GitHub Copilot app</title>
 <link>https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</guid>
-<description>已上 VS Code，装完就能试；值不值得换掉现有工具，跑一遍就知道。（GitHub Changelog）</description>
+<description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Wed, 30 Sep 2026 14:31:19 +0000</pubDate>
 </item>
@@ -43,7 +43,7 @@
 <title>Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio</title>
 <link>https://deepmind.google/blog/introducing-synthid-bio</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-synthid-bio</guid>
-<description>做蛋白设计的安全团队可提前研究，普通开发者今天用不上。（Google DeepMind）</description>
+<description>Google DeepMind</description>
 <category>官方更新</category>
 <pubDate>Wed, 30 Sep 2026 15:03:07 +0000</pubDate>
 </item>
@@ -51,7 +51,7 @@
 <title>助力小企业将AI用起来 / Helping small businesses put AI to work</title>
 <link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
 <guid isPermaLink="true">https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
-<description>小企业推广计划，没新接口没降价，开发者今天无动作可做。（OpenAI News）</description>
+<description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
 </item>
@@ -59,7 +59,7 @@
 <title>Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...</title>
 <link>https://x.com/arena/status/2105411271525052418</link>
 <guid isPermaLink="true">https://x.com/arena/status/2105411271525052418</guid>
-<description>榜单第8名不是榜首，选型时可扫一眼，但没有新东西能立刻上手。（X：Arena (@arena)）</description>
+<description>Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。（X：Arena (@arena)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 30 Sep 2026 21:35:38 +0000</pubDate>
 </item>
@@ -67,31 +67,31 @@
 <title>OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price</title>
 <link>https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price</link>
 <guid isPermaLink="true">https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price</guid>
-<description>编码和电脑操作接近旗舰却只要五分之一价格，跑 Agent 和批量代码任务的今天就能换过去比账单。（MarkTechPost（RSS））</description>
+<description>OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。（MarkTechPost（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 30 Sep 2026 21:09:24 +0000</pubDate>
-</item>
-<item>
-<title>Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...</title>
-<link>https://x.com/ArtificialAnlys/status/2105392625788637299</link>
-<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105392625788637299</guid>
-<description>同等智力只花六成成本，跑批量推理的可以先拿自家任务实测再决定换不换。（X：Artificial Analysis (@ArtificialAnlys)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 20:21:32 +0000</pubDate>
 </item>
 <item>
 <title>FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns</title>
 <link>https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns</link>
 <guid isPermaLink="true">https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns</guid>
-<description>调查不影响今天的API调用，但数据使用条款和免责声明后续可能收紧，暂无需改架构。（The Decoder：AI News（RSS））</description>
+<description>FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 30 Sep 2026 16:20:04 +0000</pubDate>
+</item>
+<item>
+<title>Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...</title>
+<link>https://x.com/ArtificialAnlys/status/2105392625788637299</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105392625788637299</guid>
+<description>Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 20:21:32 +0000</pubDate>
 </item>
 <item>
 <title>Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves</title>
 <link>https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves</link>
 <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves</guid>
-<description>自愿签字没有执法牙齿，API 和模型能力不会因此变，等你被合规要求卡住再回来看。（Ars Technica：AI（RSS））</description>
+<description>约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。（Ars Technica：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 30 Sep 2026 18:47:01 +0000</pubDate>
 </item>
@@ -99,15 +99,23 @@
 <title>GitHub Team 现可试用 GitHub Advanced Security / GitHub Advanced Security trials for GitHub Team</title>
 <link>https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</guid>
-<description>Team 版可白嫖试用代码扫描和密钥检测，小团队先试再说，别急着掏钱升级。（GitHub Changelog）</description>
+<description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Wed, 30 Sep 2026 16:48:24 +0000</pubDate>
+</item>
+<item>
+<title>ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...</title>
+<link>https://x.com/thsottiaux/status/2105519215092584786</link>
+<guid isPermaLink="true">https://x.com/thsottiaux/status/2105519215092584786</guid>
+<description>ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。（X：Tibo (@thsottiaux)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 04:44:34 +0000</pubDate>
 </item>
 <item>
 <title>OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing</title>
 <link>https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing</link>
 <guid isPermaLink="true">https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing</guid>
-<description>省成本的分级路由思路，今天就能抄进 Agent 管线，但得自己实现。（OpenRouter：Announcements（RSS））</description>
+<description>OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。（OpenRouter：Announcements（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 </item>
@@ -115,7 +123,7 @@
 <title>Hugging Face CEO 称收到数千条私信，将花几天逐一处理 / I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...</title>
 <link>https://x.com/ClementDelangue/status/2105276853632094607</link>
 <guid isPermaLink="true">https://x.com/ClementDelangue/status/2105276853632094607</guid>
-<description>CEO 吐槽私信太多，跟你的代码和选型没半点关系，划走。（X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)）</description>
+<description>Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。他称暂时只会关注特别匹配的人选，未获回复不代表负面评价，并可前往 https://apply.workable.com/huggingface 申请具体职位。（X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 30 Sep 2026 12:41:30 +0000</pubDate>
 </item>
@@ -123,7 +131,7 @@
 <title>LG 联手微软秀智能家居语音助手：可中途"插话"，年内登陆 ThinQ ON</title>
 <link>https://www.aibase.com/news/31442</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31442</guid>
-<description>年内才上ThinQ ON，无API无开发文档，做智能家居的现在插不上手。（AIbase）</description>
+<description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Wed, 30 Sep 2026 11:10:23 +0000</pubDate>
 </item>
@@ -131,7 +139,7 @@
 <title>Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....</title>
 <link>https://x.com/AravSrinivas/status/2105369479190601754</link>
 <guid isPermaLink="true">https://x.com/AravSrinivas/status/2105369479190601754</guid>
-<description>免账号邮件下任务还限时免费，今天就能把杂活丢给它试水。（X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)）</description>
+<description>Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。（X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 30 Sep 2026 18:49:34 +0000</pubDate>
 </item>
@@ -139,7 +147,7 @@
 <title>Jensen Huang 称行业领袖在白宫签署超级智能协定 / Yesterday at the White House, leaders from across our industry came together to sign the White House Accord on Super Intelligence.</title>
 <link>https://x.com/JensenHuang/status/2105348324484342238</link>
 <guid isPermaLink="true">https://x.com/JensenHuang/status/2105348324484342238</guid>
-<description>协定签了也不改你的 API 和账单，等有具体条款或限制落地再说。（X：Jensen Huang (@JensenHuang)）</description>
+<description>多家行业公司的领袖在白宫签署 White House Accord on Super Intelligence，约定开发该技术的公司负有安全部署和担责的首要责任。协定要求四层控制：训练和部署期间的稳健内部监控、授权内部团队验证控制有效、独立外部评估者审计、董事会独立委员会监督，参与公司还将定期会晤制定安全标准与最佳实践。（X：Jensen Huang (@JensenHuang)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 30 Sep 2026 17:25:30 +0000</pubDate>
 </item>
@@ -147,23 +155,15 @@
 <title>GHE.com 将于 10 月 7 日终止对仅使用 X25519 的 TLS 的支持 / X25519-only TLS ends for GHE.com on October 7</title>
 <link>https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15</guid>
-<description>只启用 X25519 的客户端届时会连不上，赶紧检查 TLS 曲线配置；默认客户端通常不受影响。（GitHub Changelog）</description>
+<description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Wed, 30 Sep 2026 13:30:24 +0000</pubDate>
-</item>
-<item>
-<title>蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&amp;mid=2247488041&amp;idx=1&amp;sn=e895cef2129ff2a96598d78b5a45c17b&amp;chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&amp;scene=126&amp;sessionid=1790772500</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&amp;mid=2247488041&amp;idx=1&amp;sn=e895cef2129ff2a96598d78b5a45c17b&amp;chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&amp;scene=126&amp;sessionid=1790772500</guid>
-<description>Flash 小模型又多一个选项，长任务和 Agent 场景先拿它压测再决定换不换。（公众号：蚂蚁百灵（Ling））</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 12:30:49 +0000</pubDate>
 </item>
 <item>
 <title>OpenRouter 发布 Agent 模型成本与质量权衡选型框架 / Cost vs. Quality Tradeoff Framework for Agent Models</title>
 <link>https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models</link>
 <guid isPermaLink="true">https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models</guid>
-<description>选型方法论，帮你按成本挑模型；没新工具，先存书签备用。（OpenRouter：Announcements（RSS））</description>
+<description>OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。（OpenRouter：Announcements（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 </item>

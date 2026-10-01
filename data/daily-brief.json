@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T02:09:32.111060Z",
+  "generated_at": "2026-10-01T06:14:16.357606Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -18,7 +18,7 @@
           "title_en": "Gemini 4 Argon: our next era of frontier intelligence",
           "title_original": "Gemini 4 Argon: our next era of frontier intelligence",
           "summary": null,
-          "recommend_reason_zh": "Google DeepMind 发布 Gemini 4 Argon，称其面向真实世界编码、企业知识与网络防御，输出上限从 64K 提至 1M tokens，在 DeepSWE v1.1 达 77.9%，定价每百万输入/输出 tokens $2/$10，先经 Fairwind Program 开放给可信网络防御者。",
+          "recommend_reason_zh": null,
           "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
@@ -38,7 +38,7 @@
           "title_en": "Gemini 4 Argon: our next era of frontier intelligence",
           "title_original": "Gemini 4 Argon: our next era of frontier intelligence",
           "summary": null,
-          "recommend_reason_zh": "Google DeepMind 发布 Gemini 4 Argon，称其面向真实世界编码、企业知识与网络防御，输出上限从 64K 提至 1M tokens，在 DeepSWE v1.1 达 77.9%，定价每百万输入/输出 tokens $2/$10，先经 Fairwind Program 开放给可信网络防御者。",
+          "recommend_reason_zh": null,
           "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8368,
-      "importance": 0.8368,
-      "importance_score": 0.8368,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9153,
+        "recency": 0.8629,
         "story_heat": 0.0
       },
       "category": "official",
@@ -74,18 +74,16 @@
         "title_en": "Gemini 4 Argon: our next era of frontier intelligence",
         "title_original": "Gemini 4 Argon: our next era of frontier intelligence",
         "summary": null,
-        "recommend_reason_zh": "Google DeepMind 发布 Gemini 4 Argon，称其面向真实世界编码、企业知识与网络防御，输出上限从 64K 提至 1M tokens，在 DeepSWE v1.1 达 77.9%，定价每百万输入/输出 tokens $2/$10，先经 Fairwind Program 开放给可信网络防御者。",
+        "recommend_reason_zh": null,
         "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 58,
-      "persona_review": "前沿模型但只对少数网安机构定向开放，开发者拿不到 API，先别排期。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -103,7 +101,7 @@
           "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
           "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
           "summary": null,
-          "recommend_reason_zh": "npm新增opt-in的dist-tag权限，可用短期OIDC凭证替代长期token；此前发布和暂存不覆盖标签操作，仍需保留token做发布或回滚后的标签操作。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -123,7 +121,7 @@
           "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
           "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
           "summary": null,
-          "recommend_reason_zh": "npm新增opt-in的dist-tag权限，可用短期OIDC凭证替代长期token；此前发布和暂存不覆盖标签操作，仍需保留token做发布或回滚后的标签操作。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -133,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9289,
+        "recency": 0.8758,
         "story_heat": 0.0
       },
       "category": "official",
@@ -159,18 +157,16 @@
         "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
         "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
         "summary": null,
-        "recommend_reason_zh": "npm新增opt-in的dist-tag权限，可用短期OIDC凭证替代长期token；此前发布和暂存不覆盖标签操作，仍需保留token做发布或回滚后的标签操作。",
+        "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 58,
-      "persona_review": "用 OIDC 发 npm 包的可以收窄 dist-tag 权限了；不开也没影响，等需要再配。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -188,7 +184,7 @@
           "title_en": "Disrupting a coordinated model-distillation campaign",
           "title_original": "Disrupting a coordinated model-distillation campaign",
           "summary": null,
-          "recommend_reason_zh": "OpenAI阻断一起模型蒸馏活动，7月24至25日出现16,000次请求高峰，核心活动归因于与Moonshot AI（Kimi开发者）相关的个人，并已完全阻断。",
+          "recommend_reason_zh": null,
           "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -208,7 +204,7 @@
           "title_en": "Disrupting a coordinated model-distillation campaign",
           "title_original": "Disrupting a coordinated model-distillation campaign",
           "summary": null,
-          "recommend_reason_zh": "OpenAI阻断一起模型蒸馏活动，7月24至25日出现16,000次请求高峰，核心活动归因于与Moonshot AI（Kimi开发者）相关的个人，并已完全阻断。",
+          "recommend_reason_zh": null,
           "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -218,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7976,
+        "recency": 0.752,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,18 +240,16 @@
         "title_en": "Disrupting a coordinated model-distillation campaign",
         "title_original": "Disrupting a coordinated model-distillation campaign",
         "summary": null,
-        "recommend_reason_zh": "OpenAI阻断一起模型蒸馏活动，7月24至25日出现16,000次请求高峰，核心活动归因于与Moonshot AI（Kimi开发者）相关的个人，并已完全阻断。",
+        "recommend_reason_zh": null,
         "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "只是提醒：拿 API 输出蒸馏会被封号，多数人无感，做数据爬取训练的才需查合规。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -273,7 +267,7 @@
           "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
           "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
           "summary": null,
-          "recommend_reason_zh": "HydraFusion 研究预览版扩展至 VS Code 1.140+ 和 GitHub Copilot app，它不是单一模型，而是按推理、代码生成、调试等能力信号在三种工作流中自动选优，为 Copilot 多模型编排提供实测入口。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -293,7 +287,7 @@
           "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
           "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
           "summary": null,
-          "recommend_reason_zh": "HydraFusion 研究预览版扩展至 VS Code 1.140+ 和 GitHub Copilot app，它不是单一模型，而是按推理、代码生成、调试等能力信号在三种工作流中自动选优，为 Copilot 多模型编排提供实测入口。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -303,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8453,
+        "recency": 0.797,
         "story_heat": 0.0
       },
       "category": "official",
@@ -329,18 +323,16 @@
         "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
         "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
         "summary": null,
-        "recommend_reason_zh": "HydraFusion 研究预览版扩展至 VS Code 1.140+ 和 GitHub Copilot app，它不是单一模型，而是按推理、代码生成、调试等能力信号在三种工作流中自动选优，为 Copilot 多模型编排提供实测入口。",
+        "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 84,
-      "persona_review": "已上 VS Code，装完就能试；值不值得换掉现有工具，跑一遍就知道。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -358,7 +350,7 @@
           "title_en": "Introducing SynthID Bio",
           "title_original": "Introducing SynthID Bio",
           "summary": null,
-          "recommend_reason_zh": "SynthID Bio 将隐形水印嵌入生物代码，在合成蛋白验证；VEGF-A 等三个靶点湿实验显示，水印保持未水印版的结合亲和力与序列多样性，首次造出具生物功能的水印蛋白。",
+          "recommend_reason_zh": null,
           "url": "https://deepmind.google/blog/introducing-synthid-bio",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
@@ -378,7 +370,7 @@
           "title_en": "Introducing SynthID Bio",
           "title_original": "Introducing SynthID Bio",
           "summary": null,
-          "recommend_reason_zh": "SynthID Bio 将隐形水印嵌入生物代码，在合成蛋白验证；VEGF-A 等三个靶点湿实验显示，水印保持未水印版的结合亲和力与序列多样性，首次造出具生物功能的水印蛋白。",
+          "recommend_reason_zh": null,
           "url": "https://deepmind.google/blog/introducing-synthid-bio",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
@@ -388,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8518,
+        "recency": 0.8031,
         "story_heat": 0.0
       },
       "category": "official",
@@ -414,18 +406,16 @@
         "title_en": "Introducing SynthID Bio",
         "title_original": "Introducing SynthID Bio",
         "summary": null,
-        "recommend_reason_zh": "SynthID Bio 将隐形水印嵌入生物代码，在合成蛋白验证；VEGF-A 等三个靶点湿实验显示，水印保持未水印版的结合亲和力与序列多样性，首次造出具生物功能的水印蛋白。",
+        "recommend_reason_zh": null,
         "url": "https://deepmind.google/blog/introducing-synthid-bio",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "做蛋白设计的安全团队可提前研究，普通开发者今天用不上。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -443,7 +433,7 @@
           "title_en": "Helping small businesses put AI to work",
           "title_original": "Helping small businesses put AI to work",
           "summary": null,
-          "recommend_reason_zh": "OpenAI 与 America’s SBDC 合作，计划通过 OpenAI Academy’s Community Trainer Program 培训约150名顾问，并至少面对面触达1,000家小企业；同时发布报告 Small Businesses, Bigger Capabilities，称9月9-15日一周内全球约400万小企业员工使用OpenAI工具。",
+          "recommend_reason_zh": null,
           "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -463,7 +453,7 @@
           "title_en": "Helping small businesses put AI to work",
           "title_original": "Helping small businesses put AI to work",
           "summary": null,
-          "recommend_reason_zh": "OpenAI 与 America’s SBDC 合作，计划通过 OpenAI Academy’s Community Trainer Program 培训约150名顾问，并至少面对面触达1,000家小企业；同时发布报告 Small Businesses, Bigger Capabilities，称9月9-15日一周内全球约400万小企业员工使用OpenAI工具。",
+          "recommend_reason_zh": null,
           "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -473,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7919,
+        "recency": 0.7466,
         "story_heat": 0.0
       },
       "category": "official",
@@ -499,18 +489,16 @@
         "title_en": "Helping small businesses put AI to work",
         "title_original": "Helping small businesses put AI to work",
         "summary": null,
-        "recommend_reason_zh": "OpenAI 与 America’s SBDC 合作，计划通过 OpenAI Academy’s Community Trainer Program 培训约150名顾问，并至少面对面触达1,000家小企业；同时发布报告 Small Businesses, Bigger Capabilities，称9月9-15日一周内全球约400万小企业员工使用OpenAI工具。",
+        "recommend_reason_zh": null,
         "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "小企业推广计划，没新接口没降价，开发者今天无动作可做。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -528,7 +516,7 @@
           "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
           "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
           "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
-          "recommend_reason_zh": "Gemini 4 Argon (High) 在 Agent Arena 排第8，净提升 +7.92%，每任务成本 $0.62，并重塑 Pareto frontier，值得一看。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/arena/status/2105411271525052418",
           "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
@@ -548,7 +536,7 @@
           "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
           "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
           "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
-          "recommend_reason_zh": "Gemini 4 Argon (High) 在 Agent Arena 排第8，净提升 +7.92%，每任务成本 $0.62，并重塑 Pareto frontier，值得一看。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/arena/status/2105411271525052418",
           "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
@@ -558,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9362,
+        "recency": 0.8827,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -583,18 +571,16 @@
         "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
         "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
         "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
-        "recommend_reason_zh": "Gemini 4 Argon (High) 在 Agent Arena 排第8，净提升 +7.92%，每任务成本 $0.62，并重塑 Pareto frontier，值得一看。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/arena/status/2105411271525052418",
         "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 58,
-      "persona_review": "榜单第8名不是榜首，选型时可扫一眼，但没有新东西能立刻上手。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -642,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.8771,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -673,96 +659,10 @@
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "编码和电脑操作接近旗舰却只要五分之一价格，跑 Agent 和批量代码任务的今天就能换过去比账单。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
-      }
-    },
-    {
-      "story_id": "story_5d1c15f30792",
-      "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-      "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-          "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-          "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
-          "recommend_reason_zh": "Google 新模型 Gemini 4 Argon 在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 持平，依靠折扣价把每任务成本压到后者 60%，使 Google 重新成为智能水平前三的实验室之一。",
-          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T20:21:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-          "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-          "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
-          "recommend_reason_zh": "Google 新模型 Gemini 4 Argon 在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 持平，依靠折扣价把每任务成本压到后者 60%，使 Google 重新成为智能水平前三的实验室之一。",
-          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T20:21:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9197,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T20:21:32Z",
-      "latest_at": "2026-09-30T20:21:32Z",
-      "primary_item": {
-        "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-        "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-        "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
-        "recommend_reason_zh": "Google 新模型 Gemini 4 Argon 在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 持平，依靠折扣价把每任务成本压到后者 60%，使 Google 重新成为智能水平前三的实验室之一。",
-        "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 76,
-      "persona_review": "同等智力只花六成成本，跑批量推理的可以先拿自家任务实测再决定换不换。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -780,7 +680,7 @@
           "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
           "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
           "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-          "recommend_reason_zh": "FTC 正式调查 OpenAI、Anthropic 等实验室消费者保护，拟强制交文件，早于约700个智能体攻击 Hugging Face，前一天高管刚签独立审计承诺。",
+          "recommend_reason_zh": null,
           "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
@@ -800,7 +700,7 @@
           "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
           "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
           "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-          "recommend_reason_zh": "FTC 正式调查 OpenAI、Anthropic 等实验室消费者保护，拟强制交文件，早于约700个智能体攻击 Hugging Face，前一天高管刚签独立审计承诺。",
+          "recommend_reason_zh": null,
           "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
@@ -810,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8677,
+        "recency": 0.8181,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -835,18 +735,98 @@
         "title_en": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
         "title_original": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
         "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-        "recommend_reason_zh": "FTC 正式调查 OpenAI、Anthropic 等实验室消费者保护，拟强制交文件，早于约700个智能体攻击 Hugging Face，前一天高管刚签独立审计承诺。",
+        "recommend_reason_zh": null,
         "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "调查不影响今天的API调用，但数据使用条款和免责声明后续可能收紧，暂无需改架构。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
+      }
+    },
+    {
+      "story_id": "story_5d1c15f30792",
+      "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+      "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
+          "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+          "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
+          "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+          "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+          "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T20:21:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
+          "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+          "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
+          "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+          "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+          "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T20:21:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8671,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T20:21:32Z",
+      "latest_at": "2026-09-30T20:21:32Z",
+      "primary_item": {
+        "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
+        "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+        "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
+        "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+        "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+        "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -864,7 +844,7 @@
           "title_en": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
           "title_original": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
           "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
-          "recommend_reason_zh": "文章解析 Trump 促使 two dozen 家科技公司签署自愿 AI 安全协议，承诺独立审计网络安全、生物安全、化学威胁和 AI 模型意外行为，Sam Altman、Elon Musk 等签署，但无法律约束力，且超七成选民偏好支持更严 AI 护栏的候选人。",
+          "recommend_reason_zh": null,
           "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
           "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
@@ -884,7 +864,7 @@
           "title_en": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
           "title_original": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
           "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
-          "recommend_reason_zh": "文章解析 Trump 促使 two dozen 家科技公司签署自愿 AI 安全协议，承诺独立审计网络安全、生物安全、化学威胁和 AI 模型意外行为，Sam Altman、Elon Musk 等签署，但无法律约束力，且超七成选民偏好支持更严 AI 护栏的候选人。",
+          "recommend_reason_zh": null,
           "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
           "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
@@ -894,15 +874,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.899,
+        "recency": 0.8475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -919,18 +899,16 @@
         "title_en": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
         "title_original": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
         "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
-        "recommend_reason_zh": "文章解析 Trump 促使 two dozen 家科技公司签署自愿 AI 安全协议，承诺独立审计网络安全、生物安全、化学威胁和 AI 模型意外行为，Sam Altman、Elon Musk 等签署，但无法律约束力，且超七成选民偏好支持更严 AI 护栏的候选人。",
+        "recommend_reason_zh": null,
         "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 28,
-      "persona_review": "自愿签字没有执法牙齿，API 和模型能力不会因此变，等你被合规要求卡住再回来看。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -978,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8737,
+        "recency": 0.8237,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1010,12 +988,92 @@
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 74,
-      "persona_review": "Team 版可白嫖试用代码扫描和密钥检测，小团队先试再说，别急着掏钱升级。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
+      }
+    },
+    {
+      "story_id": "story_b3f4baa4cfb3",
+      "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+      "url": "https://x.com/thsottiaux/status/2105519215092584786",
+      "primary_url": "https://x.com/thsottiaux/status/2105519215092584786",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T04:44:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T04:44:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9786,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T04:44:34Z",
+      "latest_at": "2026-10-01T04:44:34Z",
+      "primary_item": {
+        "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+        "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+        "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
+        "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+        "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+        "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thsottiaux/status/2105519215092584786",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -1033,7 +1091,7 @@
           "title_en": "Confidence Thresholds for Model Escalation Routing",
           "title_original": "Confidence Thresholds for Model Escalation Routing",
           "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
-          "recommend_reason_zh": "OpenRouter这篇指南讲怎么用模型自报confidence score，在便宜模型和更强模型间做升级路由：用structured outputs强制返回0到1分数，按各分数段错误率设阈值，并针对accuracy、cost、latency在生产中重新调优。",
+          "recommend_reason_zh": null,
           "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
           "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
@@ -1053,7 +1111,7 @@
           "title_en": "Confidence Thresholds for Model Escalation Routing",
           "title_original": "Confidence Thresholds for Model Escalation Routing",
           "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
-          "recommend_reason_zh": "OpenRouter这篇指南讲怎么用模型自报confidence score，在便宜模型和更强模型间做升级路由：用structured outputs强制返回0到1分数，按各分数段错误率设阈值，并针对accuracy、cost、latency在生产中重新调优。",
+          "recommend_reason_zh": null,
           "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
           "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
@@ -1063,21 +1121,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9693,
+        "recency": 0.9139,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T00:00:00Z",
       "latest_at": "2026-10-01T00:00:00Z",
@@ -1088,18 +1145,16 @@
         "title_en": "Confidence Thresholds for Model Escalation Routing",
         "title_original": "Confidence Thresholds for Model Escalation Routing",
         "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
-        "recommend_reason_zh": "OpenRouter这篇指南讲怎么用模型自报confidence score，在便宜模型和更强模型间做升级路由：用structured outputs强制返回0到1分数，按各分数段错误率设阈值，并针对accuracy、cost、latency在生产中重新调优。",
+        "recommend_reason_zh": null,
         "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
         "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "省成本的分级路由思路，今天就能抄进 Agent 管线，但得自己实现。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -1117,7 +1172,7 @@
           "title_en": "I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
           "title_original": "I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
           "summary": "Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。他称暂时只会关注特别匹配的人选，未获回复不代表负面评价，并可前往 https://apply.workable.com/huggingface 申请具体职位。",
-          "recommend_reason_zh": "作者收到数千条DM，@bot却无法自动分析，只能花几天逐一处理，还向@elonmusk喊话；未收到回复并非否定，只会挑exceptional matches。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/ClementDelangue/status/2105276853632094607",
           "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
           "source_name": "AI HOT",
@@ -1137,7 +1192,7 @@
           "title_en": "I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
           "title_original": "I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
           "summary": "Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。他称暂时只会关注特别匹配的人选，未获回复不代表负面评价，并可前往 https://apply.workable.com/huggingface 申请具体职位。",
-          "recommend_reason_zh": "作者收到数千条DM，@bot却无法自动分析，只能花几天逐一处理，还向@elonmusk喊话；未收到回复并非否定，只会挑exceptional matches。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/ClementDelangue/status/2105276853632094607",
           "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
           "source_name": "AI HOT",
@@ -1147,15 +1202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8233,
+        "recency": 0.7762,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1171,18 +1226,16 @@
         "title_en": "I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
         "title_original": "I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...",
         "summary": "Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。他称暂时只会关注特别匹配的人选，未获回复不代表负面评价，并可前往 https://apply.workable.com/huggingface 申请具体职位。",
-        "recommend_reason_zh": "作者收到数千条DM，@bot却无法自动分析，只能花几天逐一处理，还向@elonmusk喊话；未收到回复并非否定，只会挑exceptional matches。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/ClementDelangue/status/2105276853632094607",
         "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 10,
-      "persona_review": "CEO 吐槽私信太多，跟你的代码和选型没半点关系，划走。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -1200,7 +1253,7 @@
           "title_en": null,
           "title_original": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
           "summary": null,
-          "recommend_reason_zh": "据 EtNews，LG 与 Microsoft 合作的智能家居语音助手将登陆 ThinQ ON，年内发布并向现有用户推送更新，支持用户中途插话、随时换话题。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/31442",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -1220,7 +1273,7 @@
           "title_en": null,
           "title_original": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
           "summary": null,
-          "recommend_reason_zh": "据 EtNews，LG 与 Microsoft 合作的智能家居语音助手将登陆 ThinQ ON，年内发布并向现有用户推送更新，支持用户中途插话、随时换话题。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/31442",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -1230,15 +1283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8054,
+        "recency": 0.7593,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1254,18 +1307,16 @@
         "title_en": null,
         "title_original": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
         "summary": null,
-        "recommend_reason_zh": "据 EtNews，LG 与 Microsoft 合作的智能家居语音助手将登陆 ThinQ ON，年内发布并向现有用户推送更新，支持用户中途插话、随时换话题。",
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/31442",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "年内才上ThinQ ON，无API无开发文档，做智能家居的现在插不上手。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -1283,7 +1334,7 @@
           "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
           "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
           "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
-          "recommend_reason_zh": "Perplexity 宣布向所有人开放且无需 Perplexity 账号，并限时免费运行所有经 email 委派的任务，只需转发或 CC 到 [redacted-email]，agent 会在后台完成并保留邮件上下文。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/AravSrinivas/status/2105369479190601754",
           "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
           "source_name": "AI HOT",
@@ -1303,7 +1354,7 @@
           "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
           "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
           "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
-          "recommend_reason_zh": "Perplexity 宣布向所有人开放且无需 Perplexity 账号，并限时免费运行所有经 email 委派的任务，只需转发或 CC 到 [redacted-email]，agent 会在后台完成并保留邮件上下文。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/AravSrinivas/status/2105369479190601754",
           "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
           "source_name": "AI HOT",
@@ -1313,15 +1364,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8995,
+        "recency": 0.8481,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1337,18 +1388,16 @@
         "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
         "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
         "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
-        "recommend_reason_zh": "Perplexity 宣布向所有人开放且无需 Perplexity 账号，并限时免费运行所有经 email 委派的任务，只需转发或 CC 到 [redacted-email]，agent 会在后台完成并保留邮件上下文。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/AravSrinivas/status/2105369479190601754",
         "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 76,
-      "persona_review": "免账号邮件下任务还限时免费，今天就能把杂活丢给它试水。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -1366,7 +1415,7 @@
           "title_en": "Yesterday at the White House, leaders from across our industry came together to sign the White House Accord on Super Intelligence.",
           "title_original": "Yesterday at the White House, leaders from across our industry came together to sign the White House Accord on Super Intelligence.",
           "summary": "多家行业公司的领袖在白宫签署 White House Accord on Super Intelligence，约定开发该技术的公司负有安全部署和担责的首要责任。协定要求四层控制：训练和部署期间的稳健内部监控、授权内部团队验证控制有效、独立外部评估者审计、董事会独立委员会监督，参与公司还将定期会晤制定安全标准与最佳实践。",
-          "recommend_reason_zh": "昨日各行业领袖在白宫签署 White House Accord on Super Intelligence，核心是研发企业须安全开发部署并承担失责后果，文末可看最新动态。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/JensenHuang/status/2105348324484342238",
           "source": "X：Jensen Huang (@JensenHuang)",
           "source_name": "AI HOT",
@@ -1386,7 +1435,7 @@
           "title_en": "Yesterday at the White House, leaders from across our industry came together to sign the White House Accord on Super Intelligence.",
           "title_original": "Yesterday at the White House, leaders from across our industry came together to sign the White House Accord on Super Intelligence.",
           "summary": "多家行业公司的领袖在白宫签署 White House Accord on Super Intelligence，约定开发该技术的公司负有安全部署和担责的首要责任。协定要求四层控制：训练和部署期间的稳健内部监控、授权内部团队验证控制有效、独立外部评估者审计、董事会独立委员会监督，参与公司还将定期会晤制定安全标准与最佳实践。",
-          "recommend_reason_zh": "昨日各行业领袖在白宫签署 White House Accord on Super Intelligence，核心是研发企业须安全开发部署并承担失责后果，文末可看最新动态。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/JensenHuang/status/2105348324484342238",
           "source": "X：Jensen Huang (@JensenHuang)",
           "source_name": "AI HOT",
@@ -1396,15 +1445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8815,
+        "recency": 0.8311,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1420,18 +1469,16 @@
         "title_en": "Yesterday at the White House, leaders from across our industry came together to sign the White House Accord on Super Intelligence.",
         "title_original": "Yesterday at the White House, leaders from across our industry came together to sign the White House Accord on Super Intelligence.",
         "summary": "多家行业公司的领袖在白宫签署 White House Accord on Super Intelligence，约定开发该技术的公司负有安全部署和担责的首要责任。协定要求四层控制：训练和部署期间的稳健内部监控、授权内部团队验证控制有效、独立外部评估者审计、董事会独立委员会监督，参与公司还将定期会晤制定安全标准与最佳实践。",
-        "recommend_reason_zh": "昨日各行业领袖在白宫签署 White House Accord on Super Intelligence，核心是研发企业须安全开发部署并承担失责后果，文末可看最新动态。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/JensenHuang/status/2105348324484342238",
         "source": "X：Jensen Huang (@JensenHuang)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "协定签了也不改你的 API 和账单，等有具体条款或限制落地再说。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -1449,7 +1496,7 @@
           "title_en": "X25519-only TLS ends for GHE.com on October 7",
           "title_original": "X25519-only TLS ends for GHE.com on October 7",
           "summary": null,
-          "recommend_reason_zh": "从2026年10月7日起，GHE.com 将不再接受仅提供 X25519 的 TLS 连接，但继续支持 P-256 和 P-384，SSH 不受影响。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -1469,7 +1516,7 @@
           "title_en": "X25519-only TLS ends for GHE.com on October 7",
           "title_original": "X25519-only TLS ends for GHE.com on October 7",
           "summary": null,
-          "recommend_reason_zh": "从2026年10月7日起，GHE.com 将不再接受仅提供 X25519 的 TLS 连接，但继续支持 P-256 和 P-384，SSH 不受影响。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -1479,15 +1526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8054,
+      "importance": 0.8054,
+      "importance_score": 0.8054,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.833,
+        "recency": 0.7854,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1505,101 +1552,16 @@
         "title_en": "X25519-only TLS ends for GHE.com on October 7",
         "title_original": "X25519-only TLS ends for GHE.com on October 7",
         "summary": null,
-        "recommend_reason_zh": "从2026年10月7日起，GHE.com 将不再接受仅提供 X25519 的 TLS 连接，但继续支持 P-256 和 P-384，SSH 不受影响。",
+        "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "只启用 X25519 的客户端届时会连不上，赶紧检查 TLS 曲线配置；默认客户端通常不受影响。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
-      }
-    },
-    {
-      "story_id": "story_f73c51041a4d",
-      "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df28f7ee5836406fd2d24b316e142a9576d79dce",
-          "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-          "title_zh": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-          "title_en": null,
-          "title_original": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-          "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T12:30:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：蚂蚁百灵（Ling）"
-      ],
-      "items": [
-        {
-          "id": "df28f7ee5836406fd2d24b316e142a9576d79dce",
-          "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-          "title_zh": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-          "title_en": null,
-          "title_original": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-          "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T12:30:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7204,
-      "importance": 0.7204,
-      "importance_score": 0.7204,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8212,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T12:30:49Z",
-      "latest_at": "2026-09-30T12:30:49Z",
-      "primary_item": {
-        "id": "df28f7ee5836406fd2d24b316e142a9576d79dce",
-        "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-        "title_zh": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-        "title_en": null,
-        "title_original": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-        "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500",
-        "source": "公众号：蚂蚁百灵（Ling）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 76,
-      "persona_review": "Flash 小模型又多一个选项，长任务和 Agent 场景先拿它压测再决定换不换。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     },
     {
@@ -1617,7 +1579,7 @@
           "title_en": "Cost vs. Quality Tradeoff Framework for Agent Models",
           "title_original": "Cost vs. Quality Tradeoff Framework for Agent Models",
           "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。",
-          "recommend_reason_zh": "文章给出智能体选模型三步框架：先定质量门槛，再用 OpenRouter成本字段按自有样本算每质量点成本，选最便宜且过线者；并强调每次工具调用、重试都付费，三步循环至少付三次。",
+          "recommend_reason_zh": null,
           "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
           "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
@@ -1637,7 +1599,7 @@
           "title_en": "Cost vs. Quality Tradeoff Framework for Agent Models",
           "title_original": "Cost vs. Quality Tradeoff Framework for Agent Models",
           "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。",
-          "recommend_reason_zh": "文章给出智能体选模型三步框架：先定质量门槛，再用 OpenRouter成本字段按自有样本算每质量点成本，选最便宜且过线者；并强调每次工具调用、重试都付费，三步循环至少付三次。",
+          "recommend_reason_zh": null,
           "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
           "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
@@ -1647,15 +1609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9693,
+        "recency": 0.9139,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1671,18 +1633,16 @@
         "title_en": "Cost vs. Quality Tradeoff Framework for Agent Models",
         "title_original": "Cost vs. Quality Tradeoff Framework for Agent Models",
         "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。",
-        "recommend_reason_zh": "文章给出智能体选模型三步框架：先定质量门槛，再用 OpenRouter成本字段按自有样本算每质量点成本，选最便宜且过线者；并强调每次工具调用、重试都付费，三步循环至少付三次。",
+        "recommend_reason_zh": null,
         "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
         "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 58,
-      "persona_review": "选型方法论，帮你按成本挑模型；没新工具，先存书签备用。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-01T02:29:45.946346Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T06:26:59.613286Z"
       }
     }
   ]
