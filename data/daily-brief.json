@@ -1,8 +1,174 @@
 {
-  "generated_at": "2026-10-05T12:17:56.074899Z",
+  "generated_at": "2026-10-05T16:08:38.920445Z",
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 11,
   "items": [
+    {
+      "story_id": "story_b4c0a1b83afc",
+      "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+          "title_en": "ReviewBench: An open benchmark for AI code review",
+          "title_original": "ReviewBench: An open benchmark for AI code review",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+          "title_en": "ReviewBench: An open benchmark for AI code review",
+          "title_original": "ReviewBench: An open benchmark for AI code review",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8496,
+      "importance": 0.8496,
+      "importance_score": 0.8496,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.9978,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T15:59:40Z",
+      "latest_at": "2026-10-05T15:59:40Z",
+      "primary_item": {
+        "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+        "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+        "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+        "title_en": "ReviewBench: An open benchmark for AI code review",
+        "title_original": "ReviewBench: An open benchmark for AI code review",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T16:09:28.527208Z"
+      }
+    },
+    {
+      "story_id": "story_6f6f6c4ad8fb",
+      "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "primary_url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "41383479c4a10511f043979bc4fd02e409189d41",
+          "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
+          "title_zh": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
+          "title_en": "Our approach to EU text provenance rules",
+          "title_original": "Our approach to EU text provenance rules",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "41383479c4a10511f043979bc4fd02e409189d41",
+          "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
+          "title_zh": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
+          "title_en": "Our approach to EU text provenance rules",
+          "title_original": "Our approach to EU text provenance rules",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9836,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T15:00:00Z",
+      "latest_at": "2026-10-05T15:00:00Z",
+      "primary_item": {
+        "id": "41383479c4a10511f043979bc4fd02e409189d41",
+        "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
+        "title_zh": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
+        "title_en": "Our approach to EU text provenance rules",
+        "title_original": "Our approach to EU text provenance rules",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/eu-text-provenance",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T16:09:28.527208Z"
+      }
+    },
     {
       "story_id": "story_aec85adef32a",
       "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
@@ -48,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9673,
+        "recency": 0.9151,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,88 +249,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T12:18:43.101294Z"
+        "scored_at": "2026-10-05T16:09:28.527208Z"
       }
     },
     {
-      "story_id": "story_92fa9be3e195",
-      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
-      "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
-      "primary_url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
-      "source": "PromptArmor：Threat Intelligence",
-      "source_name": "AI HOT",
+      "story_id": "story_298805dceb2f",
+      "title": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？ / Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
+      "primary_url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
-          "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
-          "title_zh": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
-          "title_en": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
-          "title_original": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
-          "summary": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
+          "id": "e90c6facaa12056e5a7805164db61157c4a303e7",
+          "title": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？ / Can Safeworld convince people that GenAI robots won’t hurt them?",
+          "title_zh": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？",
+          "title_en": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+          "title_original": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
-          "source": "PromptArmor：Threat Intelligence",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-05T00:24:02Z"
+          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T12:00:00Z"
+        },
+        {
+          "id": "e5a9794ad1e9d588c4395cf1cc8ecf37de4a2043",
+          "title": "Safeworld 能否让人们相信新一代人工智能机器人不会伤害他们？ / Can Safeworld convince people that gen AI robots won’t hurt them?",
+          "title_zh": "Safeworld 能否让人们相信新一代人工智能机器人不会伤害他们？",
+          "title_en": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+          "title_original": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T12:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "PromptArmor：Threat Intelligence"
+        "TechCrunch",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
-          "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
-          "title_zh": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
-          "title_en": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
-          "title_original": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
-          "summary": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
+          "id": "e90c6facaa12056e5a7805164db61157c4a303e7",
+          "title": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？ / Can Safeworld convince people that GenAI robots won’t hurt them?",
+          "title_zh": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？",
+          "title_en": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+          "title_original": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
-          "source": "PromptArmor：Threat Intelligence",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-05T00:24:02Z"
+          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T12:00:00Z"
+        },
+        {
+          "id": "e5a9794ad1e9d588c4395cf1cc8ecf37de4a2043",
+          "title": "Safeworld 能否让人们相信新一代人工智能机器人不会伤害他们？ / Can Safeworld convince people that gen AI robots won’t hurt them?",
+          "title_zh": "Safeworld 能否让人们相信新一代人工智能机器人不会伤害他们？",
+          "title_en": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+          "title_original": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T12:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6466,
+      "importance": 0.6466,
+      "importance_score": 0.6466,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8421,
-        "story_heat": 0.0
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9419,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-05T00:24:02Z",
-      "latest_at": "2026-10-05T00:24:02Z",
+      "earliest_at": "2026-10-05T12:00:00Z",
+      "latest_at": "2026-10-05T12:00:00Z",
       "primary_item": {
-        "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
-        "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
-        "title_zh": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
-        "title_en": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
-        "title_original": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
-        "summary": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
+        "id": "e90c6facaa12056e5a7805164db61157c4a303e7",
+        "title": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？ / Can Safeworld convince people that GenAI robots won’t hurt them?",
+        "title_zh": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？",
+        "title_en": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+        "title_original": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
-        "source": "PromptArmor：Threat Intelligence",
-        "source_name": "AI HOT"
+        "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T12:18:43.101294Z"
+        "scored_at": "2026-10-05T16:09:28.527208Z"
+      }
+    },
+    {
+      "story_id": "story_f4763bfb35df",
+      "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+          "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+          "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
+          "title_en": "OpenAI is sticking more ads in ChatGPT",
+          "title_original": "OpenAI is sticking more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T13:09:48Z"
+        },
+        {
+          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
+          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
+          "title_zh": "OpenAI 正在 ChatGPT 中测试更多广告",
+          "title_en": "OpenAI is testing more ads in ChatGPT",
+          "title_original": "OpenAI is testing more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T14:38:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Engadget",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+          "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+          "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
+          "title_en": "OpenAI is sticking more ads in ChatGPT",
+          "title_original": "OpenAI is sticking more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T13:09:48Z"
+        },
+        {
+          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
+          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
+          "title_zh": "OpenAI 正在 ChatGPT 中测试更多广告",
+          "title_en": "OpenAI is testing more ads in ChatGPT",
+          "title_original": "OpenAI is testing more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T14:38:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6329,
+      "importance": 0.6329,
+      "importance_score": 0.6329,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5328,
+        "source_tier": 0.58,
+        "ai_relevance": 0.74,
+        "recency": 0.9579,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T13:09:48Z",
+      "latest_at": "2026-10-05T14:38:31Z",
+      "primary_item": {
+        "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+        "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+        "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
+        "title_en": "OpenAI is sticking more ads in ChatGPT",
+        "title_original": "OpenAI is sticking more ads in ChatGPT",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T16:09:28.527208Z"
       }
     },
     {
@@ -241,15 +546,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9847,
+        "recency": 0.9315,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -274,11 +579,11 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T12:18:43.101294Z"
+        "scored_at": "2026-10-05T16:09:28.527208Z"
       }
     },
     {
-      "story_id": "story_a0cf0e1c0e34",
+      "story_id": "story_f351af2349a9",
       "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
       "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
       "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
@@ -300,24 +605,24 @@
           "published_at": "2026-10-05T05:37:40Z"
         },
         {
-          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
-          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
-          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
+          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
+          "title": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_zh": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录",
+          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49961057",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T05:37:40Z"
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T21:29:59Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
@@ -335,38 +640,38 @@
           "published_at": "2026-10-05T05:37:40Z"
         },
         {
-          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
-          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
-          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
+          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
+          "title": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_zh": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录",
+          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49961057",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T05:37:40Z"
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T21:29:59Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5293,
-      "importance": 0.5293,
-      "importance_score": 0.5293,
+      "score": 0.5204,
+      "importance": 0.5204,
+      "importance_score": 0.5204,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9082,
+        "recency": 0.8591,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T05:37:40Z",
+      "earliest_at": "2026-10-04T21:29:59Z",
       "latest_at": "2026-10-05T05:37:40Z",
       "primary_item": {
         "id": "4a384b11a4fc9ae29008146ef699806023668585",
@@ -384,7 +689,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T12:18:43.101294Z"
+        "scored_at": "2026-10-05T16:09:28.527208Z"
       }
     },
     {
@@ -460,15 +765,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5171,
+      "importance": 0.5171,
+      "importance_score": 0.5171,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8883,
+        "recency": 0.8403,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -493,7 +798,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T12:18:43.101294Z"
+        "scored_at": "2026-10-05T16:09:28.527208Z"
       }
     },
     {
@@ -570,15 +875,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
+      "score": 0.5101,
+      "importance": 0.5101,
+      "importance_score": 0.5101,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8476,
+        "recency": 0.8018,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -603,31 +908,17 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T12:18:43.101294Z"
+        "scored_at": "2026-10-05T16:09:28.527208Z"
       }
     },
     {
-      "story_id": "story_0c4af1f5840c",
+      "story_id": "story_ee48ed0405d1",
       "title": "人工智能不需要“超级智能”或邪恶意图来发动核战争 / AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-      "url": "https://news.ycombinator.com/item?id=49958358",
-      "primary_url": "https://news.ycombinator.com/item?id=49958358",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war",
+      "primary_url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
-        {
-          "id": "84bbf69700a369eaae5a25de909579f4547588f2",
-          "title": "人工智能不需要“超级智能”或邪恶意图来发动核战争 / AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "title_zh": "人工智能不需要“超级智能”或邪恶意图来发动核战争",
-          "title_en": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "title_original": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49958358",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T22:03:41Z"
-        },
         {
           "id": "223506810e63cc3d0fecd6e1eee51937d828e427",
           "title": "人工智能不需要“超级智能”或邪恶意图来发动核战争 / AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
@@ -640,6 +931,20 @@
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
+          "published_at": "2026-10-04T22:03:41Z"
+        },
+        {
+          "id": "84bbf69700a369eaae5a25de909579f4547588f2",
+          "title": "人工智能不需要“超级智能”或邪恶意图来发动核战争 / AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+          "title_zh": "人工智能不需要“超级智能”或邪恶意图来发动核战争",
+          "title_en": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+          "title_original": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49958358",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
           "published_at": "2026-10-04T22:03:41Z"
         }
       ],
@@ -650,20 +955,6 @@
       ],
       "items": [
         {
-          "id": "84bbf69700a369eaae5a25de909579f4547588f2",
-          "title": "人工智能不需要“超级智能”或邪恶意图来发动核战争 / AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "title_zh": "人工智能不需要“超级智能”或邪恶意图来发动核战争",
-          "title_en": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "title_original": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49958358",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T22:03:41Z"
-        },
-        {
           "id": "223506810e63cc3d0fecd6e1eee51937d828e427",
           "title": "人工智能不需要“超级智能”或邪恶意图来发动核战争 / AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
           "title_zh": "人工智能不需要“超级智能”或邪恶意图来发动核战争",
@@ -676,19 +967,33 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-04T22:03:41Z"
+        },
+        {
+          "id": "84bbf69700a369eaae5a25de909579f4547588f2",
+          "title": "人工智能不需要“超级智能”或邪恶意图来发动核战争 / AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+          "title_zh": "人工智能不需要“超级智能”或邪恶意图来发动核战争",
+          "title_en": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+          "title_original": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49958358",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T22:03:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5123,
-      "importance": 0.5123,
-      "importance_score": 0.5123,
+      "score": 0.5044,
+      "importance": 0.5044,
+      "importance_score": 0.5044,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8142,
+        "recency": 0.7702,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -698,22 +1003,22 @@
       "earliest_at": "2026-10-04T22:03:41Z",
       "latest_at": "2026-10-04T22:03:41Z",
       "primary_item": {
-        "id": "84bbf69700a369eaae5a25de909579f4547588f2",
+        "id": "223506810e63cc3d0fecd6e1eee51937d828e427",
         "title": "人工智能不需要“超级智能”或邪恶意图来发动核战争 / AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
         "title_zh": "人工智能不需要“超级智能”或邪恶意图来发动核战争",
         "title_en": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
         "title_original": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49958358",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T12:18:43.101294Z"
+        "scored_at": "2026-10-05T16:09:28.527208Z"
       }
     },
     {
@@ -721,11 +1026,11 @@
       "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
       "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
       "primary_url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "4084e57646c8b4382ebc30583895f0e1139c7cc1",
+          "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
           "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
           "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
           "title_en": "Homa: The end of TCP for AI clusters [video]",
@@ -733,9 +1038,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-04T19:42:25Z"
         },
         {
@@ -755,12 +1060,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "4084e57646c8b4382ebc30583895f0e1139c7cc1",
+          "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
           "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
           "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
           "title_en": "Homa: The end of TCP for AI clusters [video]",
@@ -768,9 +1073,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-04T19:42:25Z"
         },
         {
@@ -790,15 +1095,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5075,
-      "importance": 0.5075,
-      "importance_score": 0.5075,
+      "score": 0.4998,
+      "importance": 0.4998,
+      "importance_score": 0.4998,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7869,
+        "recency": 0.7444,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -808,7 +1113,7 @@
       "earliest_at": "2026-10-04T19:42:25Z",
       "latest_at": "2026-10-04T19:42:25Z",
       "primary_item": {
-        "id": "4084e57646c8b4382ebc30583895f0e1139c7cc1",
+        "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
         "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
         "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
         "title_en": "Homa: The end of TCP for AI clusters [video]",
@@ -816,14 +1121,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T12:18:43.101294Z"
+        "scored_at": "2026-10-05T16:09:28.527208Z"
       }
     }
   ]
