@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 08:30:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 11:11:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5</title>
@@ -40,20 +40,20 @@
 <pubDate>Sat, 10 Oct 2026 05:26:34 +0000</pubDate>
 </item>
 <item>
+<title>​知名学者怒批：立即全网下架可联网开放式AI智能体</title>
+<link>https://www.aibase.com/news/31545</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31545</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sat, 10 Oct 2026 11:11:31 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead</title>
 <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead</guid>
 <description>Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。（TechCrunch：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sat, 10 Oct 2026 00:18:32 +0000</pubDate>
-</item>
-<item>
-<title>16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI</title>
-<link>https://www.aibase.com/news/31534</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31534</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sat, 10 Oct 2026 08:30:40 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站</title>
@@ -88,12 +88,12 @@
 <pubDate>Fri, 09 Oct 2026 15:19:27 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站</title>
-<link>https://www.aibase.com/news/31525</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31525</guid>
+<title>月之暗面注册资本飙至 1437 万，年内密集增资动作频频</title>
+<link>https://www.aibase.com/news/31547</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31547</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sat, 10 Oct 2026 08:30:40 +0000</pubDate>
+<pubDate>Sat, 10 Oct 2026 11:11:31 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索 / Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...</title>
@@ -104,17 +104,17 @@
 <pubDate>Fri, 09 Oct 2026 22:11:18 +0000</pubDate>
 </item>
 <item>
-<title>Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入</title>
-<link>https://www.aibase.com/news/31531</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31531</guid>
+<title>腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill</title>
+<link>https://www.aibase.com/news/31546</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31546</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sat, 10 Oct 2026 08:30:40 +0000</pubDate>
+<pubDate>Sat, 10 Oct 2026 11:11:31 +0000</pubDate>
 </item>
 <item>
-<title>Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？</title>
-<link>https://www.aibase.com/news/31544</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31544</guid>
+<title>16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI</title>
+<link>https://www.aibase.com/news/31534</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31534</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Sat, 10 Oct 2026 08:30:40 +0000</pubDate>
@@ -128,17 +128,17 @@
 <pubDate>Fri, 09 Oct 2026 20:00:30 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统</title>
-<link>https://www.aibase.com/news/31529</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31529</guid>
+<title>Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站</title>
+<link>https://www.aibase.com/news/31525</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31525</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Sat, 10 Oct 2026 08:30:40 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 公开 175 页四维证明手稿，剑指数学百年难题</title>
-<link>https://www.aibase.com/news/31535</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31535</guid>
+<title>Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入</title>
+<link>https://www.aibase.com/news/31531</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31531</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Sat, 10 Oct 2026 08:30:40 +0000</pubDate>
@@ -152,9 +152,9 @@
 <pubDate>Fri, 09 Oct 2026 19:09:44 +0000</pubDate>
 </item>
 <item>
-<title>​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上</title>
-<link>https://www.aibase.com/news/31532</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31532</guid>
+<title>Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？</title>
+<link>https://www.aibase.com/news/31544</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31544</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Sat, 10 Oct 2026 08:30:40 +0000</pubDate>
